@@ -13,7 +13,7 @@
 ## ✉️ Find me on:
 
 <p align="center">
- <a href="#"><img src="lld2.png" alt="LinkedIn" height="80" style="vertical-align:top; margin:4px"></a>
+ <a href="https://www.linkedin.com/in/arush-gupta-056905208/"><img src="lld2.png" alt="LinkedIn" height="80" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:samgupta417@gmail.com"> <img src="gmail.png" alt="" height="70" style="vertical-align:top; margin:4px"></a>
  <a href="https://instagram.com/arush_guptaaa08"> <img src="insta.png" alt="Python" height="70" style="vertical-align:top; margin:4px"></a>
 </p>
